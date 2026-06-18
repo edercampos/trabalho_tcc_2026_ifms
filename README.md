@@ -3,3 +3,5 @@ Esse arquivo descreve as instruções referente ao desenvolvimento teórico e pr
 Projeto de desenvolvimento de uma aplicação web para cadastro e pontuação automatica de atividades acadêmicas.
 
 Participantes: Éder do Prado Campos e Talisson Ferreira.
+
+Orientador: Profesor mestre Éder Rodrigues.
